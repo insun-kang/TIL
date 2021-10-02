@@ -1,2 +1,3 @@
-# TIL
-TIL
+# TODAY I LEARN (TIL) WIKI
+## DJANGO
+
