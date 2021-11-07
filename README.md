@@ -10,8 +10,8 @@
 
 ## SQL
 
-- [정규화와 비정규화]()
-- [비정규화를 하면 조회 속도가 향상될까?]()
+- [정규화와 비정규화](https://github.com/insun-kang/TIL/blob/main/SQL/%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80%20%EB%B9%84%EC%A0%95%EA%B7%9C%ED%99%94.md)
+- [비정규화를 하면 조회 속도가 향상될까?](https://github.com/insun-kang/TIL/blob/main/SQL/%EB%B9%84%EC%A0%95%EA%B7%9C%ED%99%94%EB%A5%BC%20%ED%95%98%EB%A9%B4%20%EC%A1%B0%ED%9A%8C%20%EC%86%8D%EB%8F%84%EA%B0%80%20%ED%96%A5%EC%83%81%EB%90%A0%EA%B9%8C.md)
 - [RDBMS와 NOSQL]()
 
 ## 자료구조
