@@ -12,7 +12,7 @@
 
 - 점프 투 자바
  1. [자료형](https://github.com/insun-kang/TIL/blob/main/JAVA/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%90%EB%B0%94.md)
- 2. [제어문]()
+ 2. [제어문](https://github.com/insun-kang/TIL/blob/main/JAVA/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%90%EB%B0%94_%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
 
 ## SQL
 
