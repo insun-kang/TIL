@@ -10,7 +10,7 @@
 
 ## JAVA
 
-- 점프 투 자바 
+- [점프 투 자바](https://github.com/insun-kang/TIL/blob/main/JAVA/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%90%EB%B0%94.md)
 
 ## SQL
 
