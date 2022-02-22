@@ -14,6 +14,7 @@
  1. [자료형](https://github.com/insun-kang/TIL/blob/main/JAVA/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%90%EB%B0%94.md)
  2. [제어문](https://github.com/insun-kang/TIL/blob/main/JAVA/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%90%EB%B0%94_%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
 
+- [자바(Java) 알고리즘 문제풀이 : 코딩테스트 대비](https://github.com/insun-kang/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98.md)
 ## SQL
 
 - [정규화와 비정규화](https://github.com/insun-kang/TIL/blob/main/SQL/%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80%20%EB%B9%84%EC%A0%95%EA%B7%9C%ED%99%94.md)
