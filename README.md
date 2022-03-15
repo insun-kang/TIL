@@ -18,7 +18,7 @@
 
 ## Spring
 
-- [IntelliJ 환경설정 방법]()
+- [IntelliJ 환경설정 방법](https://github.com/insun-kang/TIL/tree/main/SPRING/IntelliJ)
 
 ## SQL
 
